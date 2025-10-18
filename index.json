@@ -1,0 +1,10 @@
+{
+  "version": "3.0.0",
+  "resources": [
+    {
+      "@id": "https://ricardo-palmart.github.io/palmart-librerias/",
+      "@type": "PackageBaseAddress/3.0.0",
+      "comment": "Palmart feed público"
+    }
+  ]
+}
